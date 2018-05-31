@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/LloydArmstrong/bookstore.git"
   },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.17.5"
+  },
   "author": "Lloyd Armstrong",
   "license": "ISC",
   "bugs": {
